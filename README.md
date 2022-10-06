@@ -3,6 +3,8 @@
 
 - Titanic 
 - Packet Analysis
+- DNS analysis
+- JSON parser
 
 Access this Binder 
 
