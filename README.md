@@ -5,6 +5,7 @@
 - Packet Analysis
 - DNS analysis
 - JSON parser
+- Readme
 - Threat Modeling
 
 Access this Binder 
